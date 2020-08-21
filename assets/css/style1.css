@@ -7,7 +7,7 @@
 body{
     font-family: 'Lato';
     font-size: 18px;
-    background-image: url("../images/map-bg.jpg");
+    background: center/cover url("../images/map-bg.jpg") no-repeat;
 }
 nav {
     font-family: sans-serif;
